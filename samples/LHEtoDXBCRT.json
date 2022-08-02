@@ -1,0 +1,504 @@
+{
+	"OTA_AirLowFareSearchRS": {
+		"PricedItinCount": 1,
+		"BrandedOneWayItinCount": 0,
+		"SimpleOneWayItinCount": 0,
+		"DepartedItinCount": 0,
+		"SoldOutItinCount": 0,
+		"AvailableItinCount": 0,
+		"Version": "4.3.0",
+		"Success": {},
+		"Warnings": {
+			"Warning": [{
+					"Type": "SERVER",
+					"ShortText": "27033",
+					"Code": "ASE032LPSCIL41A.ATSE.CERT.ASCINT.SABRECIRRUS.COM",
+					"MessageClass": "I",
+					"content": ""
+				},
+				{
+					"Type": "WORKERTHREAD",
+					"ShortText": "4250041270888295700",
+					"Code": "TRANSACTIONID",
+					"MessageClass": "I",
+					"content": ""
+				},
+				{
+					"Type": "DRE",
+					"ShortText": "21728",
+					"Code": "RULEID",
+					"MessageClass": "I",
+					"content": ""
+				},
+				{
+					"Type": "DEFAULT",
+					"ShortText": "25238",
+					"Code": "RULEID",
+					"MessageClass": "I",
+					"content": ""
+				}
+			]
+		},
+		"PricedItineraries": {
+			"PricedItinerary": [{
+				"SequenceNumber": 1,
+				"AirItinerary": {
+					"DirectionInd": "Return",
+					"OriginDestinationOptions": {
+						"OriginDestinationOption": [{
+								"ElapsedTime": 195,
+								"FlightSegment": [{
+									"DepartureDateTime": "2022-08-02T22:25:00",
+									"ArrivalDateTime": "2022-08-03T00:40:00",
+									"StopQuantity": 0,
+									"FlightNumber": "235",
+									"ResBookDesigCode": "V",
+									"ElapsedTime": 195,
+									"DepartureAirport": {
+										"LocationCode": "LHE",
+										"content": ""
+									},
+									"ArrivalAirport": {
+										"LocationCode": "DXB",
+										"content": ""
+									},
+									"OperatingAirline": {
+										"Code": "PK",
+										"FlightNumber": "235",
+										"content": ""
+									},
+									"Equipment": [{
+										"AirEquipType": "32A",
+										"content": ""
+									}],
+									"MarketingAirline": {
+										"Code": "PK",
+										"content": ""
+									},
+									"MarriageGrp": "O",
+									"DepartureTimeZone": {
+										"GMTOffset": 5.0
+									},
+									"ArrivalTimeZone": {
+										"GMTOffset": 4.0
+									},
+									"TPA_Extensions": {
+										"eTicket": {
+											"Ind": true
+										},
+										"Mileage": {
+											"Amount": 1235
+										}
+									}
+								}]
+							},
+							{
+								"ElapsedTime": 175,
+								"FlightSegment": [{
+									"DepartureDateTime": "2022-08-09T18:00:00",
+									"ArrivalDateTime": "2022-08-09T21:55:00",
+									"StopQuantity": 0,
+									"FlightNumber": "236",
+									"ResBookDesigCode": "V",
+									"ElapsedTime": 175,
+									"DepartureAirport": {
+										"LocationCode": "DXB",
+										"content": ""
+									},
+									"ArrivalAirport": {
+										"LocationCode": "LHE",
+										"content": ""
+									},
+									"OperatingAirline": {
+										"Code": "PK",
+										"FlightNumber": "236",
+										"content": ""
+									},
+									"Equipment": [{
+										"AirEquipType": "32A",
+										"content": ""
+									}],
+									"MarketingAirline": {
+										"Code": "PK",
+										"content": ""
+									},
+									"MarriageGrp": "O",
+									"DepartureTimeZone": {
+										"GMTOffset": 4.0
+									},
+									"ArrivalTimeZone": {
+										"GMTOffset": 5.0
+									},
+									"TPA_Extensions": {
+										"eTicket": {
+											"Ind": true
+										},
+										"Mileage": {
+											"Amount": 1235
+										}
+									}
+								}]
+							}
+						]
+					}
+				},
+				"AirItineraryPricingInfo": [{
+					"LastTicketDate": "2022-08-02",
+					"PricingSource": "ADVJR1",
+					"PricingSubSource": "HPIS",
+					"FareReturned": true,
+					"ItinTotalFare": {
+						"BaseFare": {
+							"Amount": 320.00,
+							"CurrencyCode": "USD",
+							"DecimalPlaces": 2
+						},
+						"FareConstruction": {
+							"Amount": 320.00,
+							"CurrencyCode": "NUC",
+							"DecimalPlaces": 2
+						},
+						"EquivFare": {
+							"Amount": 66110,
+							"CurrencyCode": "PKR",
+							"DecimalPlaces": 0
+						},
+						"Taxes": {
+							"Tax": [{
+								"TaxCode": "TOTALTAX",
+								"Amount": 16834,
+								"CurrencyCode": "PKR",
+								"DecimalPlaces": 0,
+								"content": ""
+							}]
+						},
+						"TotalFare": {
+							"Amount": 82944,
+							"CurrencyCode": "PKR",
+							"DecimalPlaces": 0
+						}
+					},
+					"PTC_FareBreakdowns": {
+						"PTC_FareBreakdown": [{
+							"PassengerTypeQuantity": {
+								"Code": "ADT",
+								"Quantity": 1
+							},
+							"FareBasisCodes": {
+								"FareBasisCode": [{
+										"BookingCode": "V",
+										"AvailabilityBreak": true,
+										"DepartureAirportCode": "LHE",
+										"ArrivalAirportCode": "DXB",
+										"FareComponentBeginAirport": "LHE",
+										"FareComponentEndAirport": "DXB",
+										"FareComponentDirectionality": "FROM",
+										"FareComponentVendorCode": "ATP",
+										"GovCarrier": "PK",
+										"content": "VL6MPK"
+									},
+									{
+										"BookingCode": "V",
+										"AvailabilityBreak": true,
+										"DepartureAirportCode": "DXB",
+										"ArrivalAirportCode": "LHE",
+										"FareComponentBeginAirport": "DXB",
+										"FareComponentEndAirport": "LHE",
+										"FareComponentDirectionality": "TO",
+										"FareComponentVendorCode": "ATP",
+										"GovCarrier": "PK",
+										"content": "VL6MPK"
+									}
+								]
+							},
+							"PassengerFare": {
+								"BaseFare": {
+									"Amount": 320.00,
+									"CurrencyCode": "USD"
+								},
+								"FareConstruction": {
+									"Amount": 320.00,
+									"CurrencyCode": "NUC",
+									"DecimalPlaces": 2
+								},
+								"EquivFare": {
+									"Amount": 66110,
+									"CurrencyCode": "PKR",
+									"DecimalPlaces": 0
+								},
+								"Taxes": {
+									"Tax": [{
+											"TaxCode": "AE4",
+											"CountryCode": "AE",
+											"Amount": 4219,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "F62",
+											"CountryCode": "AE",
+											"Amount": 1969,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "TP",
+											"CountryCode": "AE",
+											"Amount": 282,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "ZR",
+											"CountryCode": "AE",
+											"Amount": 282,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "ZR2",
+											"CountryCode": "AE",
+											"Amount": 282,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "RG3",
+											"CountryCode": "PK",
+											"Amount": 5000,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "SP",
+											"CountryCode": "PK",
+											"Amount": 2000,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "YD",
+											"CountryCode": "PK",
+											"Amount": 2800,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										}
+									],
+									"TaxSummary": [{
+											"TaxCode": "AE",
+											"CountryCode": "AE",
+											"Amount": 4219,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "F6",
+											"CountryCode": "AE",
+											"Amount": 1969,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "RG",
+											"CountryCode": "PK",
+											"Amount": 5000,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "SP",
+											"CountryCode": "PK",
+											"Amount": 2000,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "TP",
+											"CountryCode": "AE",
+											"Amount": 282,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "YD",
+											"CountryCode": "PK",
+											"Amount": 2800,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										},
+										{
+											"TaxCode": "ZR",
+											"CountryCode": "AE",
+											"Amount": 564,
+											"CurrencyCode": "PKR",
+											"DecimalPlaces": 0,
+											"content": ""
+										}
+									],
+									"TotalTax": {
+										"Amount": 16834,
+										"CurrencyCode": "PKR",
+										"DecimalPlaces": 0
+									}
+								},
+								"TotalFare": {
+									"Amount": 82944,
+									"CurrencyCode": "PKR"
+								},
+								"TPA_Extensions": {
+									"Surcharges": [{
+											"Ind": "Q",
+											"Type": "MISCELLANEOUS/OTHER",
+											"content": "50.00"
+										},
+										{
+											"Ind": "F",
+											"Type": "FUEL",
+											"content": "15.00"
+										}
+									],
+									"BaggageInformationList": {
+										"BaggageInformation": [{
+												"ProvisionType": "A",
+												"AirlineCode": "PK",
+												"Segment": [{
+													"Id": 0
+												}],
+												"Allowance": [{
+													"Weight": 30,
+													"Unit": "kg"
+												}]
+											},
+											{
+												"ProvisionType": "A",
+												"AirlineCode": "PK",
+												"Segment": [{
+													"Id": 1
+												}],
+												"Allowance": [{
+													"Weight": 30,
+													"Unit": "kg"
+												}]
+											}
+										]
+									}
+								}
+							},
+							"Endorsements": {
+								"NonRefundableIndicator": false
+							},
+							"TPA_Extensions": {
+								"FareCalcLine": {
+									"Info": "LHE PK DXB Q50.00 Q15.00 127.50PK LHE127.50NUC320.00END ROE1.00"
+								}
+							},
+							"FareInfos": {
+								"FareInfo": [{
+										"FareReference": "V",
+										"TPA_Extensions": {
+											"SeatsRemaining": {
+												"Number": 9,
+												"BelowMin": false
+											},
+											"Cabin": {
+												"Cabin": "Y"
+											}
+										}
+									},
+									{
+										"FareReference": "V",
+										"TPA_Extensions": {
+											"SeatsRemaining": {
+												"Number": 9,
+												"BelowMin": false
+											},
+											"Cabin": {
+												"Cabin": "Y"
+											}
+										}
+									}
+								]
+							}
+						}]
+					},
+					"FareInfos": {
+						"FareInfo": [{
+								"FareReference": "V",
+								"TPA_Extensions": {
+									"SeatsRemaining": {
+										"Number": 9,
+										"BelowMin": false
+									},
+									"Cabin": {
+										"Cabin": "Y"
+									}
+								}
+							},
+							{
+								"FareReference": "V",
+								"TPA_Extensions": {
+									"SeatsRemaining": {
+										"Number": 9,
+										"BelowMin": false
+									},
+									"Cabin": {
+										"Cabin": "Y"
+									}
+								}
+							}
+						]
+					},
+					"TPA_Extensions": {
+						"DivideInParty": {
+							"Indicator": false
+						}
+					}
+				}],
+				"TicketingInfo": {
+					"TicketType": "eTicket",
+					"ValidInterline": "Yes"
+				},
+				"TPA_Extensions": {
+					"ValidatingCarrier": {
+						"Code": "PK"
+					},
+					"DiversitySwapper": {
+						"WeighedPriceAmount": 24883.2
+					}
+				}
+			}]
+		},
+		"TPA_Extensions": {
+			"AirlineOrderList": {
+				"AirlineOrder": [{
+					"Code": "PK",
+					"SequenceNumber": 1,
+					"content": ""
+				}]
+			}
+		}
+	},
+	"Links": [{
+			"rel": "self",
+			"href": "https://api-crt.cert.havail.sabre.com/v4.3.0/shop/flights?mode=live"
+		},
+		{
+			"rel": "linkTemplate",
+			"href": "https://api-crt.cert.havail.sabre.com/<version>/shop/flights?mode=<mode>&limit=<limit>&offset=<offset>&enabletagging=<enabletagging>"
+		}
+	]
+}

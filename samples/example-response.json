@@ -1,0 +1,328 @@
+{
+	"data": [{
+			"SerialNumber": 1,
+			"Id": "trip_1_date_2022_07_22",
+			"FlightDate": "Friday, July 22, 2022",
+			"FlightItineraries": [{},
+				{}
+			]
+		},
+		{
+			"SerialNumber": 2,
+			"Id": "trip_1_date_2022_07_23",
+			"FlightDate": "Saturday, July 23, 2022",
+			"FlightItineraries": [{},
+				{}
+			]
+		},
+		{
+			"SerialNumber": 3,
+			"Id": "trip_1_date_2022_07_24",
+			"FlightDate": "Sunday, July 24, 2022",
+			"FlightItineraries": []
+		},
+		{
+			"SerialNumber": 4,
+			"Id": "trip_1_date_2022_07_25",
+			"FlightDate": "Monday, July 25, 2022",
+			"FlightItineraries": [{
+					"FlightDetails": {
+						"flightCode": "PA-200",
+						"leavingCityCode": "KHI",
+						"landingCityCode": "ISB",
+						"leavingDateTimeISO": "2022-07-25 07:15:00Z",
+						"landingDateTimeISO": "2022-07-25 09:15:00Z",
+						"leavingDateTimeUTC": "2022-07-25 02:15:00Z",
+						"landingDateTimeUTC": "2022-07-25 04:15:00Z",
+						"leavingDate": "25-JUL",
+						"landingDate": "25-JUL",
+						"leavingTime": "7:15 AM",
+						"landingTime": "9:15 AM",
+						"route": "Nonstop",
+						"aircraftType": "A321"
+					},
+					"FamilyCount": 3,
+					"FamilyFares": [{
+							"familyCode": "EV",
+							"cabinName": "Economy",
+							"familyName": "Value  (No Bag)",
+							"familyDescription": "Fly for less with our Value fare.",
+							"fareTotal": 21003,
+							"fareSinglePax": 21003,
+							"fareTitle": "All Guests:\nPKR 21,003"
+						},
+						{
+							"familyCode": "EF",
+							"cabinName": "Economy",
+							"familyName": "Flexi  (20 kg Bag)",
+							"familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+							"fareTotal": 21810,
+							"fareSinglePax": 21810,
+							"fareTitle": "All Guests:\nPKR 21,810"
+						},
+						{
+							"familyCode": "EX",
+							"cabinName": "Economy",
+							"familyName": "Xtra  (2 Bags 20kg Each)",
+							"familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+							"fareTotal": 22717,
+							"fareSinglePax": 22717,
+							"fareTitle": "All Guests:\nPKR 22,717"
+						}
+					]
+				},
+				{
+					"FlightDetails": {
+						"flightCode": "PA-208",
+						"leavingCityCode": "KHI",
+						"landingCityCode": "ISB",
+						"leavingDateTimeISO": "2022-07-25 21:00:00Z",
+						"landingDateTimeISO": "2022-07-25 23:00:00Z",
+						"leavingDateTimeUTC": "2022-07-25 16:00:00Z",
+						"landingDateTimeUTC": "2022-07-25 18:00:00Z",
+						"leavingDate": "25-JUL",
+						"landingDate": "25-JUL",
+						"leavingTime": "9:00 PM",
+						"landingTime": "11:00 PM",
+						"route": "Nonstop",
+						"aircraftType": "A320"
+					},
+					"FamilyCount": 3,
+					"FamilyFares": [{
+							"familyCode": "EV",
+							"cabinName": "Economy",
+							"familyName": "Value  (No Bag)",
+							"familyDescription": "Fly for less with our Value fare.",
+							"fareTotal": 21003,
+							"fareSinglePax": 21003,
+							"fareTitle": "All Guests:\nPKR 21,003"
+						},
+						{
+							"familyCode": "EF",
+							"cabinName": "Economy",
+							"familyName": "Flexi  (20 kg Bag)",
+							"familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+							"fareTotal": 21810,
+							"fareSinglePax": 21810,
+							"fareTitle": "All Guests:\nPKR 21,810"
+						},
+						{
+							"familyCode": "EX",
+							"cabinName": "Economy",
+							"familyName": "Xtra  (2 Bags 20kg Each)",
+							"familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+							"fareTotal": 22717,
+							"fareSinglePax": 22717,
+							"fareTitle": "All Guests:\nPKR 22,717"
+						}
+					]
+				}
+			]
+		},
+		{
+			"SerialNumber": 5,
+			"Id": "trip_1_date_2022_07_26",
+			"FlightDate": "Tuesday, July 26, 2022",
+			"FlightItineraries": [{},
+				{}
+			]
+		},
+		{
+			"SerialNumber": 6,
+			"Id": "trip_1_date_2022_07_27",
+			"FlightDate": "Wednesday, July 27, 2022",
+			"FlightItineraries": [{
+					"FlightDetails": {
+						"flightCode": "PA-200",
+						"leavingCityCode": "KHI",
+						"landingCityCode": "ISB",
+						"leavingDateTimeISO": "2022-07-27 07:15:00Z",
+						"landingDateTimeISO": "2022-07-27 09:15:00Z",
+						"leavingDateTimeUTC": "2022-07-27 02:15:00Z",
+						"landingDateTimeUTC": "2022-07-27 04:15:00Z",
+						"leavingDate": "27-JUL",
+						"landingDate": "27-JUL",
+						"leavingTime": "7:15 AM",
+						"landingTime": "9:15 AM",
+						"route": "Nonstop",
+						"aircraftType": "A321"
+					},
+					"FamilyCount": 3,
+					"FamilyFares": [{
+							"familyCode": "EV",
+							"cabinName": "Economy",
+							"familyName": "Value  (No Bag)",
+							"familyDescription": "Fly for less with our Value fare.",
+							"fareTotal": 21003,
+							"fareSinglePax": 21003,
+							"fareTitle": "All Guests:\nPKR 21,003"
+						},
+						{
+							"familyCode": "EF",
+							"cabinName": "Economy",
+							"familyName": "Flexi  (20 kg Bag)",
+							"familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+							"fareTotal": 21810,
+							"fareSinglePax": 21810,
+							"fareTitle": "All Guests:\nPKR 21,810"
+						},
+						{
+							"familyCode": "EX",
+							"cabinName": "Economy",
+							"familyName": "Xtra  (2 Bags 20kg Each)",
+							"familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+							"fareTotal": 22717,
+							"fareSinglePax": 22717,
+							"fareTitle": "All Guests:\nPKR 22,717"
+						}
+					]
+				},
+				{
+					"FlightDetails": {
+						"flightCode": "PA-208",
+						"leavingCityCode": "KHI",
+						"landingCityCode": "ISB",
+						"leavingDateTimeISO": "2022-07-27 21:00:00Z",
+						"landingDateTimeISO": "2022-07-27 23:00:00Z",
+						"leavingDateTimeUTC": "2022-07-27 16:00:00Z",
+						"landingDateTimeUTC": "2022-07-27 18:00:00Z",
+						"leavingDate": "27-JUL",
+						"landingDate": "27-JUL",
+						"leavingTime": "9:00 PM",
+						"landingTime": "11:00 PM",
+						"route": "Nonstop",
+						"aircraftType": "A320"
+					},
+					"FamilyCount": 3,
+					"FamilyFares": [{
+							"familyCode": "EV",
+							"cabinName": "Economy",
+							"familyName": "Value  (No Bag)",
+							"familyDescription": "Fly for less with our Value fare.",
+							"fareTotal": 21003,
+							"fareSinglePax": 21003,
+							"fareTitle": "All Guests:\nPKR 21,003"
+						},
+						{
+							"familyCode": "EF",
+							"cabinName": "Economy",
+							"familyName": "Flexi  (20 kg Bag)",
+							"familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+							"fareTotal": 21810,
+							"fareSinglePax": 21810,
+							"fareTitle": "All Guests:\nPKR 21,810"
+						},
+						{
+							"familyCode": "EX",
+							"cabinName": "Economy",
+							"familyName": "Xtra  (2 Bags 20kg Each)",
+							"familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+							"fareTotal": 22717,
+							"fareSinglePax": 22717,
+							"fareTitle": "All Guests:\nPKR 22,717"
+						}
+					]
+				}
+			]
+		},
+		{
+			"SerialNumber": 7,
+			"Id": "trip_1_date_2022_07_28",
+			"FlightDate": "Thursday, July 28, 2022",
+			"FlightItineraries": [{
+					"FlightDetails": {
+						"flightCode": "PA-200",
+						"leavingCityCode": "KHI",
+						"landingCityCode": "ISB",
+						"leavingDateTimeISO": "2022-07-28 07:15:00Z",
+						"landingDateTimeISO": "2022-07-28 09:15:00Z",
+						"leavingDateTimeUTC": "2022-07-28 02:15:00Z",
+						"landingDateTimeUTC": "2022-07-28 04:15:00Z",
+						"leavingDate": "28-JUL",
+						"landingDate": "28-JUL",
+						"leavingTime": "7:15 AM",
+						"landingTime": "9:15 AM",
+						"route": "Nonstop",
+						"aircraftType": "A320"
+					},
+					"FamilyCount": 3,
+					"FamilyFares": [{
+							"familyCode": "EV",
+							"cabinName": "Economy",
+							"familyName": "Value  (No Bag)",
+							"familyDescription": "Fly for less with our Value fare.",
+							"fareTotal": 21003,
+							"fareSinglePax": 21003,
+							"fareTitle": "All Guests:\nPKR 21,003"
+						},
+						{
+							"familyCode": "EF",
+							"cabinName": "Economy",
+							"familyName": "Flexi  (20 kg Bag)",
+							"familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+							"fareTotal": 21810,
+							"fareSinglePax": 21810,
+							"fareTitle": "All Guests:\nPKR 21,810"
+						},
+						{
+							"familyCode": "EX",
+							"cabinName": "Economy",
+							"familyName": "Xtra  (2 Bags 20kg Each)",
+							"familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+							"fareTotal": 22717,
+							"fareSinglePax": 22717,
+							"fareTitle": "All Guests:\nPKR 22,717"
+						}
+					]
+				},
+				{
+					"FlightDetails": {
+						"flightCode": "PA-208",
+						"leavingCityCode": "KHI",
+						"landingCityCode": "ISB",
+						"leavingDateTimeISO": "2022-07-28 21:00:00Z",
+						"landingDateTimeISO": "2022-07-28 23:00:00Z",
+						"leavingDateTimeUTC": "2022-07-28 16:00:00Z",
+						"landingDateTimeUTC": "2022-07-28 18:00:00Z",
+						"leavingDate": "28-JUL",
+						"landingDate": "28-JUL",
+						"leavingTime": "9:00 PM",
+						"landingTime": "11:00 PM",
+						"route": "Nonstop",
+						"aircraftType": "A320"
+					},
+					"FamilyCount": 3,
+					"FamilyFares": [{
+							"familyCode": "EV",
+							"cabinName": "Economy",
+							"familyName": "Value  (No Bag)",
+							"familyDescription": "Fly for less with our Value fare.",
+							"fareTotal": 21003,
+							"fareSinglePax": 21003,
+							"fareTitle": "All Guests:\nPKR 21,003"
+						},
+						{
+							"familyCode": "EF",
+							"cabinName": "Economy",
+							"familyName": "Flexi  (20 kg Bag)",
+							"familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+							"fareTotal": 21810,
+							"fareSinglePax": 21810,
+							"fareTitle": "All Guests:\nPKR 21,810"
+						},
+						{
+							"familyCode": "EX",
+							"cabinName": "Economy",
+							"familyName": "Xtra  (2 Bags 20kg Each)",
+							"familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+							"fareTotal": 22717,
+							"fareSinglePax": 22717,
+							"fareTitle": "All Guests:\nPKR 22,717"
+						}
+					]
+				}
+			]
+		}
+	],
+	"errors": []
+}

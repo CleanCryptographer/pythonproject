@@ -1,0 +1,1013 @@
+{
+  "OTA_AirLowFareSearchRS": {
+    "PricedItinCount": 14,
+    "BrandedOneWayItinCount": 0,
+    "SimpleOneWayItinCount": 0,
+    "DepartedItinCount": 0,
+    "SoldOutItinCount": 0,
+    "AvailableItinCount": 0,
+    "Version": 1.0,
+    "Success": {},
+    "Warnings": [],
+    "PricedItineraries": {
+      "PricedItinerary": [
+        {
+          "SequenceNumber": "1",
+          "Id": "trip_1_date_2022_07_30",
+          "FlightDate": "Saturday, July 30, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 210.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-410",
+                      "DepartureAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-07-30 14:40:00Z",
+                      "ArrivalDateTimeISO": "2022-07-30 17:10:00Z",
+                      "DepartureDateTime": "2022-07-30 09:40:00Z",
+                      "ArrivalDateTime": "2022-07-30 13:10:00Z",
+                      "DepartureDate": "30-JUL",
+                      "ArrivalDate": "30-JUL",
+                      "DepartureTime": "2:40 PM",
+                      "ArrivalTime": "5:10 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 210.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 45142.0,
+              "fareSinglePax": 45142.0,
+              "fareTitle": "All Guests:\nPKR 45,142"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 48763.0,
+              "fareSinglePax": 48763.0,
+              "fareTitle": "All Guests:\nPKR 48,763"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 53052.0,
+              "fareSinglePax": 53052.0,
+              "fareTitle": "All Guests:\nPKR 53,052"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "1",
+          "Id": "trip_1_date_2022_07_31",
+          "FlightDate": "Sunday, July 31, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 210.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-410",
+                      "DepartureAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-07-31 14:25:00Z",
+                      "ArrivalDateTimeISO": "2022-07-31 16:55:00Z",
+                      "DepartureDateTime": "2022-07-31 09:25:00Z",
+                      "ArrivalDateTime": "2022-07-31 12:55:00Z",
+                      "DepartureDate": "31-JUL",
+                      "ArrivalDate": "31-JUL",
+                      "DepartureTime": "2:25 PM",
+                      "ArrivalTime": "4:55 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321NX",
+                        "content": ""
+                      },
+                      "ElapsedTime": 210.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 43193.0,
+              "fareSinglePax": 43193.0,
+              "fareTitle": "All Guests:\nPKR 43,193"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 46814.0,
+              "fareSinglePax": 46814.0,
+              "fareTitle": "All Guests:\nPKR 46,814"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 51103.0,
+              "fareSinglePax": 51103.0,
+              "fareTitle": "All Guests:\nPKR 51,103"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "1",
+          "Id": "trip_1_date_2022_08_01",
+          "FlightDate": "Monday, August 01, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 210.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-410",
+                      "DepartureAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-01 14:40:00Z",
+                      "ArrivalDateTimeISO": "2022-08-01 17:10:00Z",
+                      "DepartureDateTime": "2022-08-01 09:40:00Z",
+                      "ArrivalDateTime": "2022-08-01 13:10:00Z",
+                      "DepartureDate": "01-AUG",
+                      "ArrivalDate": "01-AUG",
+                      "DepartureTime": "2:40 PM",
+                      "ArrivalTime": "5:10 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 210.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 40241.0,
+              "fareSinglePax": 40241.0,
+              "fareTitle": "All Guests:\nPKR 40,241"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 42469.0,
+              "fareSinglePax": 42469.0,
+              "fareTitle": "All Guests:\nPKR 42,469"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 46814.0,
+              "fareSinglePax": 46814.0,
+              "fareTitle": "All Guests:\nPKR 46,814"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "1",
+          "Id": "trip_1_date_2022_08_02",
+          "FlightDate": "Tuesday, August 02, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 210.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-410",
+                      "DepartureAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-02 14:25:00Z",
+                      "ArrivalDateTimeISO": "2022-08-02 16:55:00Z",
+                      "DepartureDateTime": "2022-08-02 09:25:00Z",
+                      "ArrivalDateTime": "2022-08-02 12:55:00Z",
+                      "DepartureDate": "02-AUG",
+                      "ArrivalDate": "02-AUG",
+                      "DepartureTime": "2:25 PM",
+                      "ArrivalTime": "4:55 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 210.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 40241.0,
+              "fareSinglePax": 40241.0,
+              "fareTitle": "All Guests:\nPKR 40,241"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 42469.0,
+              "fareSinglePax": 42469.0,
+              "fareTitle": "All Guests:\nPKR 42,469"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 46814.0,
+              "fareSinglePax": 46814.0,
+              "fareTitle": "All Guests:\nPKR 46,814"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "1",
+          "Id": "trip_1_date_2022_08_03",
+          "FlightDate": "Wednesday, August 03, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 210.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-410",
+                      "DepartureAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-03 14:40:00Z",
+                      "ArrivalDateTimeISO": "2022-08-03 17:10:00Z",
+                      "DepartureDateTime": "2022-08-03 09:40:00Z",
+                      "ArrivalDateTime": "2022-08-03 13:10:00Z",
+                      "DepartureDate": "03-AUG",
+                      "ArrivalDate": "03-AUG",
+                      "DepartureTime": "2:40 PM",
+                      "ArrivalTime": "5:10 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 210.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 38236.0,
+              "fareSinglePax": 38236.0,
+              "fareTitle": "All Guests:\nPKR 38,236"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 40408.0,
+              "fareSinglePax": 40408.0,
+              "fareTitle": "All Guests:\nPKR 40,408"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 44642.0,
+              "fareSinglePax": 44642.0,
+              "fareTitle": "All Guests:\nPKR 44,642"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "1",
+          "Id": "trip_1_date_2022_08_04",
+          "FlightDate": "Thursday, August 04, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 210.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-410",
+                      "DepartureAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-04 14:40:00Z",
+                      "ArrivalDateTimeISO": "2022-08-04 17:10:00Z",
+                      "DepartureDateTime": "2022-08-04 09:40:00Z",
+                      "ArrivalDateTime": "2022-08-04 13:10:00Z",
+                      "DepartureDate": "04-AUG",
+                      "ArrivalDate": "04-AUG",
+                      "DepartureTime": "2:40 PM",
+                      "ArrivalTime": "5:10 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 210.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 38236.0,
+              "fareSinglePax": 38236.0,
+              "fareTitle": "All Guests:\nPKR 38,236"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 40408.0,
+              "fareSinglePax": 40408.0,
+              "fareTitle": "All Guests:\nPKR 40,408"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 44642.0,
+              "fareSinglePax": 44642.0,
+              "fareTitle": "All Guests:\nPKR 44,642"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "1",
+          "Id": "trip_1_date_2022_08_05",
+          "FlightDate": "Friday, August 05, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 210.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-410",
+                      "DepartureAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-05 14:40:00Z",
+                      "ArrivalDateTimeISO": "2022-08-05 17:10:00Z",
+                      "DepartureDateTime": "2022-08-05 09:40:00Z",
+                      "ArrivalDateTime": "2022-08-05 13:10:00Z",
+                      "DepartureDate": "05-AUG",
+                      "ArrivalDate": "05-AUG",
+                      "DepartureTime": "2:40 PM",
+                      "ArrivalTime": "5:10 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 210.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 38236.0,
+              "fareSinglePax": 38236.0,
+              "fareTitle": "All Guests:\nPKR 38,236"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 40408.0,
+              "fareSinglePax": 40408.0,
+              "fareTitle": "All Guests:\nPKR 40,408"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 44642.0,
+              "fareSinglePax": 44642.0,
+              "fareTitle": "All Guests:\nPKR 44,642"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "2",
+          "Id": "trip_2_date_2022_07_31",
+          "FlightDate": "Sunday, July 31, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 195.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-411",
+                      "DepartureAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-07-31 18:10:00Z",
+                      "ArrivalDateTimeISO": "2022-07-31 22:25:00Z",
+                      "DepartureDateTime": "2022-07-31 14:10:00Z",
+                      "ArrivalDateTime": "2022-07-31 17:25:00Z",
+                      "DepartureDate": "31-JUL",
+                      "ArrivalDate": "31-JUL",
+                      "DepartureTime": "6:10 PM",
+                      "ArrivalTime": "10:25 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321NX",
+                        "content": ""
+                      },
+                      "ElapsedTime": 195.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 26349.0,
+              "fareSinglePax": 26349.0,
+              "fareTitle": "All Guests:\nPKR 26,349"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 27741.0,
+              "fareSinglePax": 27741.0,
+              "fareTitle": "All Guests:\nPKR 27,741"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 32532.0,
+              "fareSinglePax": 32532.0,
+              "fareTitle": "All Guests:\nPKR 32,532"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "2",
+          "Id": "trip_2_date_2022_08_01",
+          "FlightDate": "Monday, August 01, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 195.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-411",
+                      "DepartureAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-01 18:10:00Z",
+                      "ArrivalDateTimeISO": "2022-08-01 22:25:00Z",
+                      "DepartureDateTime": "2022-08-01 14:10:00Z",
+                      "ArrivalDateTime": "2022-08-01 17:25:00Z",
+                      "DepartureDate": "01-AUG",
+                      "ArrivalDate": "01-AUG",
+                      "DepartureTime": "6:10 PM",
+                      "ArrivalTime": "10:25 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 195.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 23954.0,
+              "fareSinglePax": 23954.0,
+              "fareTitle": "All Guests:\nPKR 23,954"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 24901.0,
+              "fareSinglePax": 24901.0,
+              "fareTitle": "All Guests:\nPKR 24,901"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 28744.0,
+              "fareSinglePax": 28744.0,
+              "fareTitle": "All Guests:\nPKR 28,744"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "2",
+          "Id": "trip_2_date_2022_08_02",
+          "FlightDate": "Tuesday, August 02, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 195.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-411",
+                      "DepartureAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-02 18:10:00Z",
+                      "ArrivalDateTimeISO": "2022-08-02 22:25:00Z",
+                      "DepartureDateTime": "2022-08-02 14:10:00Z",
+                      "ArrivalDateTime": "2022-08-02 17:25:00Z",
+                      "DepartureDate": "02-AUG",
+                      "ArrivalDate": "02-AUG",
+                      "DepartureTime": "6:10 PM",
+                      "ArrivalTime": "10:25 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 195.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 26349.0,
+              "fareSinglePax": 26349.0,
+              "fareTitle": "All Guests:\nPKR 26,349"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 27741.0,
+              "fareSinglePax": 27741.0,
+              "fareTitle": "All Guests:\nPKR 27,741"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 32532.0,
+              "fareSinglePax": 32532.0,
+              "fareTitle": "All Guests:\nPKR 32,532"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "2",
+          "Id": "trip_2_date_2022_08_03",
+          "FlightDate": "Wednesday, August 03, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 195.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-411",
+                      "DepartureAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-03 18:10:00Z",
+                      "ArrivalDateTimeISO": "2022-08-03 22:25:00Z",
+                      "DepartureDateTime": "2022-08-03 14:10:00Z",
+                      "ArrivalDateTime": "2022-08-03 17:25:00Z",
+                      "DepartureDate": "03-AUG",
+                      "ArrivalDate": "03-AUG",
+                      "DepartureTime": "6:10 PM",
+                      "ArrivalTime": "10:25 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 195.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 21558.0,
+              "fareSinglePax": 21558.0,
+              "fareTitle": "All Guests:\nPKR 21,558"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 22004.0,
+              "fareSinglePax": 22004.0,
+              "fareTitle": "All Guests:\nPKR 22,004"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 25847.0,
+              "fareSinglePax": 25847.0,
+              "fareTitle": "All Guests:\nPKR 25,847"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "2",
+          "Id": "trip_2_date_2022_08_04",
+          "FlightDate": "Thursday, August 04, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 195.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-411",
+                      "DepartureAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-04 18:10:00Z",
+                      "ArrivalDateTimeISO": "2022-08-04 22:25:00Z",
+                      "DepartureDateTime": "2022-08-04 14:10:00Z",
+                      "ArrivalDateTime": "2022-08-04 17:25:00Z",
+                      "DepartureDate": "04-AUG",
+                      "ArrivalDate": "04-AUG",
+                      "DepartureTime": "6:10 PM",
+                      "ArrivalTime": "10:25 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 195.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 23954.0,
+              "fareSinglePax": 23954.0,
+              "fareTitle": "All Guests:\nPKR 23,954"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 24901.0,
+              "fareSinglePax": 24901.0,
+              "fareTitle": "All Guests:\nPKR 24,901"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 28744.0,
+              "fareSinglePax": 28744.0,
+              "fareTitle": "All Guests:\nPKR 28,744"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "2",
+          "Id": "trip_2_date_2022_08_05",
+          "FlightDate": "Friday, August 05, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 195.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-411",
+                      "DepartureAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-05 18:10:00Z",
+                      "ArrivalDateTimeISO": "2022-08-05 22:25:00Z",
+                      "DepartureDateTime": "2022-08-05 14:10:00Z",
+                      "ArrivalDateTime": "2022-08-05 17:25:00Z",
+                      "DepartureDate": "05-AUG",
+                      "ArrivalDate": "05-AUG",
+                      "DepartureTime": "6:10 PM",
+                      "ArrivalTime": "10:25 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 195.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 21558.0,
+              "fareSinglePax": 21558.0,
+              "fareTitle": "All Guests:\nPKR 21,558"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 22004.0,
+              "fareSinglePax": 22004.0,
+              "fareTitle": "All Guests:\nPKR 22,004"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 25847.0,
+              "fareSinglePax": 25847.0,
+              "fareTitle": "All Guests:\nPKR 25,847"
+            }
+          ]
+        },
+        {
+          "SequenceNumber": "2",
+          "Id": "trip_2_date_2022_08_06",
+          "FlightDate": "Saturday, August 06, 2022",
+          "AirItinerary": {
+            "DirectionInd": "Return",
+            "OriginDestinationOptions": {
+              "OriginDestinationOption": [
+                {
+                  "ElapsedTime": 195.0,
+                  "FlightSegment": [
+                    {
+                      "FlightNumber": "PA-411",
+                      "DepartureAirport": {
+                        "LocationCode": "DXB",
+                        "content": ""
+                      },
+                      "ArrivalAirport": {
+                        "LocationCode": "LHE",
+                        "content": ""
+                      },
+                      "DepartureDateTimeISO": "2022-08-06 18:10:00Z",
+                      "ArrivalDateTimeISO": "2022-08-06 22:25:00Z",
+                      "DepartureDateTime": "2022-08-06 14:10:00Z",
+                      "ArrivalDateTime": "2022-08-06 17:25:00Z",
+                      "DepartureDate": "06-AUG",
+                      "ArrivalDate": "06-AUG",
+                      "DepartureTime": "6:10 PM",
+                      "ArrivalTime": "10:25 PM",
+                      "StopQuantity": 0,
+                      "Equipment": {
+                        "AirEquipType": "A321",
+                        "content": ""
+                      },
+                      "ElapsedTime": 195.0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "AirItineraryPricingInfo": [
+            {
+              "familyCode": "EV",
+              "cabinName": "Economy",
+              "familyName": "Value  (No Bag)",
+              "familyDescription": "Fly for less with our Value fare.",
+              "fareTotal": 23954.0,
+              "fareSinglePax": 23954.0,
+              "fareTitle": "All Guests:\nPKR 23,954"
+            },
+            {
+              "familyCode": "EF",
+              "cabinName": "Economy",
+              "familyName": "Flexi  (20 kg Bag)",
+              "familyDescription": "Get more with Flexi fare, reserve your preferred seat selection, and exchange with standard fee.",
+              "fareTotal": 24901.0,
+              "fareSinglePax": 24901.0,
+              "fareTitle": "All Guests:\nPKR 24,901"
+            },
+            {
+              "familyCode": "EX",
+              "cabinName": "Economy",
+              "familyName": "Xtra  (2 Bags 20kg Each)",
+              "familyDescription": "Fly with style with an Xtra ticket! Maximum BlueMiles rewards, preferred seat selection, and easy to exchange.",
+              "fareTotal": 28744.0,
+              "fareSinglePax": 28744.0,
+              "fareTitle": "All Guests:\nPKR 28,744"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Links": [],
+  "Errors": []
+}
